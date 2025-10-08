@@ -1,0 +1,19 @@
+datatypes
+1.Primitive
+    1.int
+    2.float
+    3.double
+    4.char
+    5.boolean
+    6.void 
+2.Derived
+    1.Array
+    2.Function
+    3.Pointer
+    4.Referance
+3.Used Defineed
+    1.Structure
+    2.Union
+    3.Enum
+    4.Class
+    5.Typedef

@@ -6,7 +6,7 @@ int main()
     cout << "tealevels:";
     cout << tealevels << endl;
 
-    float waterTemperature = 55.5;
+    float waterTemperature = 55.5; 
     cout << "waterTemperature:";
     cout << waterTemperature << endl;
 

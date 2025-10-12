@@ -14,7 +14,8 @@ int main()
     if (totalPrice > 100)
     {
         cout << "\tTotal Price is:" << totalPrice << endl;
-        discountPrice = totalPrice - (totalPrice * .05);
+        discountPrice = totalPrice - (totalPrice * .05); //appling 5% discount
+        
         cout << "\tas you purchased more than 100 tk so you are our lucky custumer and you get 5% \b of discount." << endl;
         cout << "\tYour discounted Price:" << discountPrice << endl;
     }

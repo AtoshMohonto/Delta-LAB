@@ -29,11 +29,13 @@ int main()
     Chai chaiOne;
     chaiOne.teaName = "lemon tea";
     chaiOne.servings = 2;
-    chaiOne.ingredients = {"water", "lemon", "suger", "tea leaves"};
-
+    chaiOne.ingredients = {"water", "lemon", "suger", "tea leaves","ginger"};
     chaiOne.displaychaiDetails();
+//another from /object
     Chai chaiTwo;
-    chaiTwo
-
+        chaiTwo.teaName="Orange Tea";
+        chaiTwo.servings=4;
+        chaiTwo.ingredients={"water", "orange", "suger", "tea leaves"};
+    chaiTwo.displaychaiDetails();
     return 0;
 }

@@ -6,12 +6,12 @@ datatypes
     4.char
     5.boolean
     6.void 
-2.Derived
+2.Derived  
     1.Array
     2.Function
     3.Pointer
     4.Referance
-3.Used Defineed
+3.Used Defineed type // custom data type
     1.Structure
     2.Union
     3.Enum

@@ -5,7 +5,7 @@ using namespace std;
 class Car {
   public:
     string brand;   
-    string model;
+    string model; // car model is represented by this attribute
     int year;
 };
 
